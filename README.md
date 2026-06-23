@@ -1,3 +1,5 @@
-# Python For Everybody University of Michigan Coursera
+# Python For Everybody Specialization University of Michigan Coursera
 
-In this GitHub repository, I will be uploading all of my course assignments, and other programming practices, I did while learning to program in Python.
+This Repository is for the Course One - Programming for Everybody (Getting Started with Python)
+
+In this GitHub repository, I will be uploading all of my course assignments, and other programming practices from the First Course of this Specialization, I did while learning to program in Python.
